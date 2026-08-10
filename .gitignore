@@ -1,0 +1,30 @@
+# Agent & AI configuration
+.agents/
+.agent/
+.gemini/
+
+# Build targets
+target/
+**/target/
+*.jar
+*.war
+*.ear
+
+# IDE & Editor files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Environment & Config local overrides
+*.env
+*.local
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,9 +1,0 @@
-D:\PTPMHDV\crs-microservices\registration-service\src\main\java\vn\edu\crs\registrationservice\client\CourseClient.java
-D:\PTPMHDV\crs-microservices\registration-service\src\main\java\vn\edu\crs\registrationservice\config\RestTemplateConfig.java
-D:\PTPMHDV\crs-microservices\registration-service\src\main\java\vn\edu\crs\registrationservice\controller\RegistrationController.java
-D:\PTPMHDV\crs-microservices\registration-service\src\main\java\vn\edu\crs\registrationservice\dto\RegistrationRequestDTO.java
-D:\PTPMHDV\crs-microservices\registration-service\src\main\java\vn\edu\crs\registrationservice\entity\Registration.java
-D:\PTPMHDV\crs-microservices\registration-service\src\main\java\vn\edu\crs\registrationservice\exception\GlobalExceptionHandler.java
-D:\PTPMHDV\crs-microservices\registration-service\src\main\java\vn\edu\crs\registrationservice\RegistrationServiceApplication.java
-D:\PTPMHDV\crs-microservices\registration-service\src\main\java\vn\edu\crs\registrationservice\repository\RegistrationRepository.java
-D:\PTPMHDV\crs-microservices\registration-service\src\main\java\vn\edu\crs\registrationservice\service\RegistrationService.java
